@@ -1,0 +1,125 @@
+{
+    "plants": [
+      {
+        "id": 1,
+        "name": "Sansevieria Boncellensis",
+        "category": "Succulents",
+        "price": 34.00,
+        "rating": 4.5,
+        "reviews_count": 120,
+        "sale":false,
+        "image_url": "https://tse1.mm.bing.net/th?id=OIP.Fp4zMVLeq8Yr6spSUGbt-QHaHa&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 2,
+        "name": "Aloe Vera",
+        "category": "Succulents",
+        "price": 25.00,
+        "rating": 4.8,
+        "reviews_count": 200,
+        "sale":true,
+        "image_url": "https://tse3.mm.bing.net/th?id=OIP._EWRIZG4G8zy69ete5xB0AHaE8&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 3,
+        "name": "Snake Plant",
+        "category": "Houseplants",
+        "price": 40.00,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "sale":true,
+        "image_url": "https://houseplantcentral.com/wp-content/uploads/2022/05/A-Type-of-Snake-Plant-for-Every-Home.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Peace Lily",
+        "category": "Houseplants",
+        "price": 45.00,
+        "rating": 4.6,
+        "reviews_count": 180,
+        "sale":true,
+        "image_url": "https://tse3.mm.bing.net/th?id=OIP.hQ8eOslbINs1MIykneL32QHaE8&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 5,
+        "name": "Fiddle Leaf Fig",
+        "category": "Houseplants",
+        "price": 60.00,
+        "rating": 4.4,
+        "reviews_count": 130,
+        "sale":true,
+        "image_url": "https://tse4.mm.bing.net/th?id=OIP.nYdkscGZD-F5VSAftT3TcAHaE7&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 6,
+        "name": "Rubber Plant",
+        "category": "Houseplants",
+        "price": 55.00,
+        "rating": 4.5,
+        "reviews_count": 140,
+        "sale":false,
+        "image_url": "https://tse4.mm.bing.net/th?id=OIP._1T-tduPy4YVzdgiDvkFPwHaJ4&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 7,
+        "name": "Monstera",
+        "category": "Houseplants",
+        "price": 70.00,
+        "rating": 4.9,
+        "reviews_count": 300,
+        "sale":true,
+        "image_url": "https://tse1.mm.bing.net/th?id=OIP.jbFdZFrm1G7e8VZGP1ycAwHaIA&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 8,
+        "name": "Cactus Plant",
+        "category": "Succulents",
+        "price": 20.00,
+        "rating": 4.2,
+        "reviews_count": 110,
+        "sale":true,
+        "image_url": "https://www.thespruce.com/thmb/BBFdMpqNP8mO30T4SgrvhUSIsQM=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/saguarocactus-GettyImages-506103644-9d881bd28f144ba4be61c2b32e0ff124.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Pothos",
+        "category": "Houseplants",
+        "price": 30.00,
+        "rating": 4.6,
+        "reviews_count": 190,
+        "sale":false,
+        "image_url": "https://www.mydomaine.com/thmb/U8zjh2ANe7uOpBDMRnoflD39s2A=/1080x1080/filters:no_upscale():max_bytes(150000):strip_icc()/161029802_3716793755065012_4977917557294983733_n-f8187fefbb01424d9ac094e6c929b9fe.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Bamboo Plant",
+        "category": "Houseplants",
+        "price": 35.00,
+        "rating": 4.4,
+        "reviews_count": 100,
+        "sale":true,
+        "image_url": "https://images.immediate.co.uk/production/volatile/sites/10/2018/12/2048x1365-clumping-bamboo-GettyImages-157531073-c13dc08.jpg?quality=45&resize=960,640"
+      },
+      {
+        "id": 11,
+        "name": "Chinese Money Plant",
+        "category": "Houseplants",
+        "price": 28.00,
+        "rating": 4.7,
+        "reviews_count": 125,
+        "sale":true,
+        "image_url": "https://cdn.mos.cms.futurecdn.net/YiBBPHgXQRt3gJ4PZ9yWxG.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Boston Fern",
+        "category": "Houseplants",
+        "price": 50.00,
+        "rating": 4.5,
+        "reviews_count": 175,
+        "sale":true,
+        "image_url": "https://gardenerspath.com/wp-content/uploads/2022/04/Boston-Ferns-Growing-Outdoors.jpg"
+      }
+    ]
+  }
+  
