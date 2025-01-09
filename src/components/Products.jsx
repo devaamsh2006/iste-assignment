@@ -20,7 +20,7 @@ function Products() {
             :
             prod.map(ele=>{
                 return(
-                    <div key={ele.id} className='relative bg-slate-400 shadow-md shadow-gray-300 p-2 group hover:bg-slate-700 rounded-sm cursor-pointer'>
+                    <div key={ele.id} className='relative bg-slate-100 shadow-md shadow-gray-300 p-2 group hover:bg-slate-700 rounded-sm cursor-pointer'>
                     <img src={ele.image_url} className='w-48 h-48' />
                     <p className='font-medium text-black group-hover:text-white'>{ele.category}</p>
                     <p className='font-medium text-black group-hover:text-white'>{ele.name}</p>
